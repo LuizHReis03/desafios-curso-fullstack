@@ -29,3 +29,33 @@ body{
     padding: 0;
     font-family: Arial, sans-serif;
 }
+
+.botão {
+    padding: 30px 52px;
+    font-size: 0px;
+    background-color: rgb(14, 214, 14);
+    color: rgba(37, 236, 15, 0.764);
+    border: 10;
+    border-radius: 200px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 662px;
+    display: inline-block;
+}
+
+.botão:hover{
+    background-color: #45a049
+}
+
+.botãodozap{
+    font-size: 20px;
+    background-color: rgb(14, 214, 14);
+    border: 0;
+    border-radius: 200px;
+    cursor:pointer;
+}
+
+.botãodozap:hover{
+    background-color: #45a049
+}
