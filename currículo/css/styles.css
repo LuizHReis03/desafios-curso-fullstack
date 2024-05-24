@@ -5,12 +5,12 @@ body, ul {
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #fff;
+    background-color: white;
     color: #333;
 }
 
 header {
-    background-color: #4c555f;
+    background-color: #555758;
     color: #fff;
     padding: 10px;
     text-align: center;
