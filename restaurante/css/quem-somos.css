@@ -37,11 +37,11 @@ body {
 }
 
 .texto {
-    background-color: rgba(164, 51, 51, 0.9); /* Cor de fundo do texto com transparência */
+    background-color: rgba(164, 51, 51, 0.9); 
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra */
-    display: inline-block; /* Permite que o texto e a imagem fiquem na mesma linha */
+    display: inline-block; 
     text-align: center;
     margin-top: 10px;
 }

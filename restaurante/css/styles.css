@@ -39,9 +39,9 @@ footer{
 }
 
 .texto {
-    background-color: rgba(164, 51, 51, 0.9);
+    background-color: rgba(164, 51, 51, 0.9);/* Cor de fundo do texto com transparência */
     padding: 5px;
-    display: inline-block;
+    display: inline-block;/* Permite que o texto e a imagem fiquem na mesma linha */
     border-radius: 10px;
 }
 
