@@ -1,4 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
 document.getElementById("botão").addEventListener("click", function() {
     // Número de telefone para o qual você deseja enviar a mensagem
     var phoneNumber = "5568999732168";
