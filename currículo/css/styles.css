@@ -1,0 +1,36 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    color: #333;
+    padding: 50px
+}
+
+header {
+    background-color: #555758;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+}
+img {
+    width: 10%; 
+    position: absolute;
+    right: 100px;
+    margin-top: 50px;
+    border: 3px solid black;
+}
+
+footer {
+    text-align: center;
+    background-color: #4c555f;
+    color: #fff;
+    padding:10px;
+}
+
+
+
